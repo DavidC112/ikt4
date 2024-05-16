@@ -1,0 +1,44 @@
+C:\Dávid\c#\WPF\IKT_Project_3\bin\Debug\net7.0-windows\IKT_Project_3.exe
+C:\Dávid\c#\WPF\IKT_Project_3\bin\Debug\net7.0-windows\IKT_Project_3.deps.json
+C:\Dávid\c#\WPF\IKT_Project_3\bin\Debug\net7.0-windows\IKT_Project_3.runtimeconfig.json
+C:\Dávid\c#\WPF\IKT_Project_3\bin\Debug\net7.0-windows\IKT_Project_3.dll
+C:\Dávid\c#\WPF\IKT_Project_3\bin\Debug\net7.0-windows\IKT_Project_3.pdb
+C:\Dávid\c#\WPF\IKT_Project_3\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Dávid\c#\WPF\IKT_Project_3\obj\Debug\net7.0-windows\Window2.g.cs
+C:\Dávid\c#\WPF\IKT_Project_3\obj\Debug\net7.0-windows\App.g.cs
+C:\Dávid\c#\WPF\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3_MarkupCompile.cache
+C:\Dávid\c#\WPF\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3_MarkupCompile.lref
+C:\Dávid\c#\WPF\IKT_Project_3\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Dávid\c#\WPF\IKT_Project_3\obj\Debug\net7.0-windows\Window2.baml
+C:\Dávid\c#\WPF\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3.g.resources
+C:\Dávid\c#\WPF\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dávid\c#\WPF\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3.AssemblyInfoInputs.cache
+C:\Dávid\c#\WPF\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3.AssemblyInfo.cs
+C:\Dávid\c#\WPF\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3.csproj.CoreCompileInputs.cache
+C:\Dávid\c#\WPF\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3.dll
+C:\Dávid\c#\WPF\IKT_Project_3\obj\Debug\net7.0-windows\refint\IKT_Project_3.dll
+C:\Dávid\c#\WPF\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3.pdb
+C:\Dávid\c#\WPF\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3.genruntimeconfig.cache
+C:\Dávid\c#\WPF\IKT_Project_3\obj\Debug\net7.0-windows\ref\IKT_Project_3.dll
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\bin\Debug\net7.0-windows\IKT_Project_3.exe
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\bin\Debug\net7.0-windows\IKT_Project_3.deps.json
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\bin\Debug\net7.0-windows\IKT_Project_3.runtimeconfig.json
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\bin\Debug\net7.0-windows\IKT_Project_3.dll
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\bin\Debug\net7.0-windows\IKT_Project_3.pdb
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\obj\Debug\net7.0-windows\Window2.g.cs
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3_MarkupCompile.cache
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3_MarkupCompile.lref
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\obj\Debug\net7.0-windows\Window2.baml
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3.g.resources
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3.AssemblyInfoInputs.cache
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3.AssemblyInfo.cs
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3.csproj.CoreCompileInputs.cache
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3.dll
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\obj\Debug\net7.0-windows\refint\IKT_Project_3.dll
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3.pdb
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\obj\Debug\net7.0-windows\IKT_Project_3.genruntimeconfig.cache
+C:\Users\Cornuta Dávid\Documents\GitHub\ikt4\IKT_Project_3\obj\Debug\net7.0-windows\ref\IKT_Project_3.dll
